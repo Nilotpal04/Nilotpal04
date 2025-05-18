@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg)](https://Nilotpal04.io)
+[![MasterHead](https://w.wallhaven.cc/full/ly/wallhaven-ly93ry.png)](https://Nilotpal04.io)
 <h1 align="center">Hi 👋, I'm Nilotpal</h1>
 <h3 align="center">A newbie developer from India</h3>
 
