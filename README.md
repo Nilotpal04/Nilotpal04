@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nilotpal</h1>
 <h3 align="center">A newbie developer from India</h3>
 
-- 💬 Ask me about **Java Script, Python**
-
 - 📫 How to reach me **nilotpalb2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,8 +10,3 @@
 <a href="https://fb.com/nilotpal baishya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilotpal baishya" height="30" width="40" /></a>
 <a href="https://instagram.com/nilotpal.xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilotpal.xo" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilotpal04&show_icons=true&locale=en&layout=compact" alt="nilotpal04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilotpal04&show_icons=true&locale=en" alt="nilotpal04" /></p>
-
